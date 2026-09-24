@@ -1,0 +1,6 @@
+{
+  "name": "ระบบแจ้งเบาะแสยาเสพติด",
+  "description": "เว็บแอปพลิเคชันสำหรับบันทึกและจัดการข้อมูลแจ้งเบาะแสยาเสพติด แยกประเภทผู้ค้า ผู้เสพ และผู้ต้องการเลิกยา พร้อมเชื่อมโยงข้อมูลจาก Google Forms บันทึกข้อมูลรายบุคคล และสรุปสถิติ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
